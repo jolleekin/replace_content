@@ -1,0 +1,11 @@
+name: replace_content
+description: A pub transformer that replaces the contents of some target files based on the transformation mode.
+version: 0.0.1
+author: Man Hoang <jolleekin@outlook.com>
+homepage: https://github.com/jolleekin/replace_content
+
+dependencies:
+  barback: '>=0.15.2+9 <0.16.0'
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
